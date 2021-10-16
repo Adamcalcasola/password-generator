@@ -41,8 +41,9 @@ function generatePassword() {
       if (pwSpecial) {
         charType.push(special[Math.floor(Math.random()*special.length)]);
       };
-
-      pwArray.push(charType[Math.floor(Math.random()*charType.length)]);
+      let charSelect = charType[Math.floor(Math.random()*charType.length)];
+      pwArray.push(charSelect);
+      
     };
     return pwArray.join(""); 
   };
