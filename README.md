@@ -9,6 +9,6 @@
 - The password generator will display a random password with the criteria the user defines. 
 - The password generator will not create a password that does not include the character types the user defines.
 
-![password-generator screenshot](/Assets/ScreenshotPasswordGenerator.png?raw=true "screenshot")
+![password-generator screenshot](/Assets/images/ScreenshotPasswordGenerator.png?raw=true "screenshot")
 
 https://adamcalcasola.github.io/password-generator/
